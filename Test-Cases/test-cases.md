@@ -49,4 +49,3 @@ Document functional test scenarios for the Custodian desktop application. These 
 | Fail | Actual result differs from expected result |
 | Blocked | Test cannot be executed due to an issue |
 
-**Current Status:** Proposed test cases – Not Executed.
