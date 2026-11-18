@@ -1,0 +1,6 @@
+
+Test_ID,Customer_Type,Status
+TC001,Savings,Valid
+TC002,Current,Valid
+TC003,Savings,Invalid
+TC004,Current,Invalid
